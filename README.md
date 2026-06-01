@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a UI/UX designer and developer passionate about creating beautiful, functional interfaces. 
+I'm a UI/UX designer and developer passionate about creating beautiful, functional interfaces.  
+### Product Design
+[Musik-app-Product-Design-Accenture-TheForage](https://www.figma.com/proto/AuYSUamyhXi7fQ62lh0UyX/Music-App-Start--Copy-?node-id=2183-455&node-type=frame&t=RWsjlpQuI38eslFV-1&scaling=scale-down&content-scaling=fixed&page-id=104%3A703&starting-point-node-id=2183%3A455)  
+### Dev
+[Joke teller react application](https://sat-sid.github.io/joke-teller-react-app/)  
+[Lucky_shrub portfolio project](https://sat-sid.github.io/lucky_shrub_portfolio_project/)  
+[Note Keeper React application](https://sat-sid.github.io/Note-Keeper-React-application/)  
