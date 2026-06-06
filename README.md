@@ -22,8 +22,10 @@ I'm a UI/UX designer and developer passionate about creating beautiful, function
 ---
 ### Dev projects
 - [Joke teller react application](https://sat-sid.github.io/joke-teller-react-app/)  
-- [Lucky_shrub portfolio project](https://sat-sid.github.io/lucky_shrub_portfolio_project/)  
-- [Note Keeper React application](https://sat-sid.github.io/Note-Keeper-React-application/)  
+- [Frontend Mentor - Coding bootcamp testimonials slider](https://sat-sid.github.io/Frontend-mentor-Challenge-coding-bootcamp-testimonials-slider-master/)
+- [Note Keeper React application](https://sat-sid.github.io/Note-Keeper-React-application/)
+- [Frontend Mentor - Article preview component](https://sat-sid.github.io/Frontend-Mentor-challenge-Article-Preview-Component-Master/)
+- [Frontend Mentor - FAQ accordion card](https://sat-sid.github.io/Frontend-mentor-Challenge-faq-accordion-card-main/)  
 ---
-### Contact me
+### Contact me 📫  
 [Github](https://github.com/Sat-Sid)
